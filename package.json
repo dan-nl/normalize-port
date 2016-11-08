@@ -1,0 +1,28 @@
+{
+  "name": "normalize-port",
+  "version": "0.0.0",
+  "description": "port helper for express",
+  "author": "dan entous",
+  "license": "MIT",
+  "main": "src/index.js",
+  "scripts": {
+    "eslint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dan-nl/normalize-port.git"
+  },
+  "keywords": [
+    "express",
+    "helper",
+    "listening"
+  ],
+  "bugs": {
+    "url": "https://github.com/dan-nl/normalize-port/issues"
+  },
+  "homepage": "https://github.com/dan-nl/normalize-port#readme",
+  "devDependencies": {
+    "eslint": "3.9.1",
+    "eslint-config-dan-nl": "git://github.com/dan-nl/eslint-config-dan-nl.git"
+  }
+}
