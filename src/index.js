@@ -12,7 +12,7 @@
 function normalizePort( val ) {
   var port = parseInt( val, 10 );
 
-  if ( isNaN( port ) ) {
+  if ( Number.isNaN( port ) ) {
     // named pipe
     return val;
   }
