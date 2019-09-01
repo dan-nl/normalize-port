@@ -1,6 +1,4 @@
 ## normalize-port
-[![Dependency Status][david-dm-image]][david-dm-url] [![Dev Dependency Status][david-dm-dev-image]][david-dm-dev-url] [![NSP Status][nsp-image]][nsp-url]
-
 port helper for express
 
 based on the [express application generator][generator-url].
