@@ -1,6 +1,6 @@
 {
   "name": "normalize-port",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "port helper for express",
   "author": "dan entous",
   "license": "MIT",
